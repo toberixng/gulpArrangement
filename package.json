@@ -1,0 +1,40 @@
+{
+  "name": "Oluwatobi-Assignment",
+  "version": "1.0.0",
+  "description": "Clone this repo and add Gulp tasks as set out in the course activity.",
+  "main": "blog.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/OpenClassrooms-Student-Center/5493201-js-for-the-web-gulp.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/OpenClassrooms-Student-Center/5493201-js-for-the-web-gulp/issues"
+  },
+  "homepage": "https://github.com/OpenClassrooms-Student-Center/5493201-js-for-the-web-gulp#readme",
+  "devDependencies": {
+    "babel-cli": "^6.26.0",
+    "babel-core": "^6.26.3",
+    "babel-loader": "^8.0.6",
+    "babel-plugin-transform-runtime": "^6.23.0",
+    "babel-polyfill": "^6.26.0",
+    "babel-preset-env": "^1.7.0",
+    "babel-preset-es2015": "^6.24.1",
+    "babel-preset-stage-0": "^6.24.1",
+    "browser-sync": "^2.26.7",
+    "gulp-babel": "^8.0.0",
+    "gulp-jshint": "^2.1.0",
+    "gulp-uglify": "^3.0.2",
+    "jshint": "^2.10.2",
+    "run-sequence": "^2.2.1"
+  },
+  "dependencies": {
+    "@babel/core": "^7.6.2",
+    "gulp": "^3.9.1"
+  }
+}
